@@ -59,7 +59,7 @@ This carrier wave forms the basis of amplitude modulation.
 
 The oscillator output was verified using an oscilloscope.
 
-![Carrier Wave](images/carrier_wave.png)
+![Carrier Wave](images/Carrier_wave.png)
 
 ---
 
@@ -71,7 +71,7 @@ The signal was amplified using an LM386 amplifier stage to generate sufficient m
 
 ### Audio Amplification Block Diagram
 
-![Mic Amplifier](images/audio_generation_and_amplification.jpeg)
+![Mic Amplifier](images/Audio_generation_and_amplification.jpeg)
 
 ---
 
@@ -83,7 +83,7 @@ The modulated signal was then transferred to the transmitting coil.
 
 ### Modulator Circuit Diagram
 
-![Modulator Circuit](images/modulator.png)
+![Modulator Circuit](images/Modulator.png)
 
 ---
 
@@ -109,7 +109,7 @@ After redesigning the emitter network, the modulation index improved significant
 
 ### Unloaded Modulated Waveform
 
-![Improved Modulation](images/unloaded_modulated_wave.jpeg)
+![Improved Modulation](images/Unloaded_modulated_wave.jpeg)
 
 The modulation index improved to approximately **0.6**.
 
@@ -152,7 +152,7 @@ The receiver consists of:
 
 ### Envelope Detector Circuit
 
-![Envelope Detector](images/peak_rider.png)
+![Envelope Detector](images/Peak_rider.png)
 
 ### Audio Amplification and Speaker Block Diagram
 
@@ -160,7 +160,7 @@ The receiver consists of:
 
 ### Receiver Breadboard Setup
 
-![Receiver Setup](images/receiver_board.jpeg)
+![Receiver Setup](images/Receiver_board.jpeg)
 
 ---
 
@@ -182,7 +182,7 @@ At a separation of approximately **2–3 cm**, waveform quality improved signifi
 
 ### Received Waveform
 
-![Separated Coils](images/good_receiver_output.jpeg)
+![Separated Coils](images/Good_receiver_output.jpeg)
 
 ---
 
